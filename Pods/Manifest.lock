@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlamofireNetworkActivityLogger (2.2.0):
+    - Alamofire (~> 4.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - CryptoSwift (0.8.0)
+  - Dip (6.0)
+  - ObjectMapper (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireNetworkActivityLogger
+  - AlamofireObjectMapper
+  - CryptoSwift
+  - Dip
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlamofireNetworkActivityLogger: a7ae1842988b3f6248a49213268375bd27b515f0
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  CryptoSwift: f81907430ebbe38b8404b4f6fb40f3c576a8755f
+  Dip: 316ad036509eaf3ef78e19699f32a9e01a5b3c3e
+  ObjectMapper: 92230db59bf8f341a5c3a3cf0b9fbdde3cf0d87f
+
+PODFILE CHECKSUM: 8e8074f5ab2582666e35732a8a0ef23a78f13c14
+
+COCOAPODS: 1.2.0

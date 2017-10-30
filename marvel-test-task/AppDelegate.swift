@@ -10,6 +10,7 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
+    static let assembly = ModelsAssembly.assembly()
 
     var window: UIWindow?
 

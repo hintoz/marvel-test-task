@@ -1,0 +1,6 @@
+framework module Pods_marvel_test_task {
+  umbrella header "Pods-marvel-test-task-umbrella.h"
+
+  export *
+  module * { export * }
+}
